@@ -33,7 +33,3 @@ const App = () => {
 };
 
 export default App;
-
-
-git config --global user.email "mansijain061998@gmail.com"
-  git config --global user.name "Mansijain06"
